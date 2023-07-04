@@ -1,7 +1,5 @@
 # ViewSpotFinder
 
-GitHub Solution Description:
-
 This C# solution is designed to identify view spots in a hilly landscape represented by a mesh. The mesh is composed of triangular elements, each assigned a scalar value representing the average spot height compared to sea level.
 
 The program takes a JSON file as input, containing the mesh and height values. The file includes sections for nodes, elements, and values. Nodes represent locations on the map, elements define triangles by referencing node IDs, and values assign height values to elements.
