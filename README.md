@@ -13,3 +13,7 @@ The solution has performance requirements, aiming to identify view spots in a me
 Example mesh files are attached for testing purposes, including a small file and larger meshes with 10,000 and 20,000 elements.
 
 By using this solution, users can easily identify view spots in a hilly landscape and analyze the height distribution within the mesh, aiding in tasks such as planning walking tours or studying geographical features.
+
+# How to use example:
+ In CMD: ViewSpotFinder.exe C:\...\ViewSpotFinder\Assignment\mesh_x_sin_cos_20000[1][1][1][1][1][1].json 5
+

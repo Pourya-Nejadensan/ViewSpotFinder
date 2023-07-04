@@ -15,6 +15,7 @@ namespace ViewSpotFinder
             {
                 Console.WriteLine("Usage: ViewSpotFinder.exe <mesh file> <number of view spots>");
                 Logger.Log(LogLevel.Warning, "Usage: ViewSpotFinder.exe <mesh file> <number of view spots>");
+                Console.ReadKey();
                 Environment.Exit(1);
             }
 
